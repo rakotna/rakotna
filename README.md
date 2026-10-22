@@ -54,7 +54,7 @@ Système complet de numérisation de bulletins scolaires malgaches par vision pa
 - 📸 Capture caméra ou import galerie → détection automatique des zones → OCR → correction → export PDF/Excel
 - 🏗️ Extension en cours vers un ERP de gestion scolaire avec modèle prédictif anti-décrochage
 
-**Stack :** Flutter · Dart · Python · FastAPI · YOLO-OBB · TFLite · TrOCR · Firebase Firestore · SQLite/Sqflite
+**Stack :** Flutter · Dart · Python · FastAPI · docTR · TFLite · TrOCR · Firebase Firestore · SQLite/Sqflite
 
 📱 [Application mobile](https://github.com/rakotna/M1-projet) · ⚙️ [API backend](https://github.com/rakotna/ScolarAi_Back)
 
