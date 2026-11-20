@@ -120,8 +120,8 @@ Développement d'un marketplace IA-driven *(juillet 2026 – présent)*.
 <details>
 <summary>Voir les projets antérieurs (licence, projets personnels)</summary>
 
-**e-learning — Plateforme d'apprentissage** (React · Django · Redux Toolkit · Tailwind CSS · MySQL)
-Chat temps réel, upload multimédia, notifications. [Voir le projet](https://github.com/rakotna/orc-note-matricule)
+**🎯 [NoteScanner — Détection OCR en temps réel](https://github.com/rakotna/orc-note-matricule)** (HTML · CSS · JavaScript · API OCR)
+Interface web mobile utilisant la caméra et une API de vision par ordinateur pour détecter et lire automatiquement des notes ou des zones de texte.
 
 **e-commerce — Gestion de stock** (React · Spring Boot · PostgreSQL)
 Authentification JWT, export PDF automatisé.
