@@ -43,6 +43,32 @@ Je conçois des solutions numériques qui combinent expérience utilisateur, aut
 
 ---
 
+## 🚀 Projets récents
+
+### 🌾 [AROVOLY — Crop Monitoring & Precision Agriculture](https://github.com/rakotna/arovoly)
+
+Plateforme de précision agricole destinée au suivi des parcelles, des cultures et des capteurs IoT. Le projet exploite les données géospatiales, satellitaires et météorologiques pour aider à la prise de décision agricole.
+
+**Fonctionnalités prévues :** cartographie des parcelles, indices NDVI, suivi des sols et capteurs, alertes, prévision de rendement et prescriptions de fertilisation à taux variable.
+
+**Stack envisagée :** React · TypeScript · Vite · Tailwind CSS · Django REST Framework · PostgreSQL/PostGIS · Redis · Celery.
+
+> Projet actuellement en phase de conception UI et de cadrage fonctionnel.
+
+### 💼 [Porfolio — Site portfolio personnel](https://github.com/rakotna/Porfolio)
+
+Site portfolio personnel développé avec une interface moderne et responsive pour présenter mes compétences, mon parcours et mes réalisations.
+
+**Stack :** React · TypeScript · Vite · Tailwind CSS.
+
+### 📚 [ScolarAI — API backend OCR](https://github.com/rakotna/ScolarAi_Back)
+
+API FastAPI dédiée à la reconnaissance et à l’extraction automatisée des informations présentes sur les bulletins scolaires malgaches. Elle complète l’application mobile ScolarAI et expose les fonctions de détection, OCR, correction, export et réentraînement.
+
+**Stack :** Python · FastAPI · docTR · TrOCR · Google Drive · Ngrok.
+
+---
+
 ## 🚀 Projets principaux
 
 ### 📚 ScolarAI — Numérisation intelligente de bulletins scolaires
