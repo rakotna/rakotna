@@ -45,6 +45,14 @@ Je conçois des solutions numériques qui combinent expérience utilisateur, aut
 
 ## 🚀 Projets récents
 
+### 🌾 [Irooa — Ketrik'AI Market](https://github.com/rakotna/Irooa)
+
+Marketplace B2B agricole reliant producteurs, transformateurs, exportateurs, distributeurs et partenaires logistiques à Madagascar. Le projet vise à faciliter les échanges commerciaux agricoles entre plusieurs acteurs du secteur.
+
+**Modules ciblés :** catalogue de produits agricoles, organisations et rôles, demandes B2B, commandes, logistique et paiements.
+
+**Stack :** React 18 · TypeScript · Tailwind CSS · Vite · Django REST Framework · PostgreSQL · CORS · paiement Orange Money / Max it.
+
 ### 🌾 [AROVOLY — Crop Monitoring & Precision Agriculture](https://github.com/rakotna/arovoly)
 
 Plateforme de précision agricole destinée au suivi des parcelles, des cultures et des capteurs IoT. Le projet exploite les données géospatiales, satellitaires et météorologiques pour aider à la prise de décision agricole.
